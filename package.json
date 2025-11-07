@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/backend": "^2.20.0",
     "@clerk/nextjs": "^6.34.1",
+    "@hono/clerk-auth": "^3.0.3",
+    "@hono/zod-validator": "^0.7.4",
     "@radix-ui/react-slot": "^1.2.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
